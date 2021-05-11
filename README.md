@@ -1,12 +1,12 @@
-# H1 Guitar Practice
+# Guitar Practice
 
-## H2 What is this?
+## What is this?
 
 This Repo is a place where I itend to record my guitar practice sessions, reflect on what went well and not so well and where I might need to improve. It's also a place where I will keep a record of useful lessons, exercises, songs, chords, scales and other practice resources. I want this to be a 'living' document so I will be evolving it over time.
 
 It's very unlikely that this will ever be of any use to anyone other than myself, and other than giving me a place to play with markdown and git, it has basically nothing to do with code whatsoever.
 
-## H2 Self Assessment
+## Self Assessment
 
 Currently (As of 11/05/2021) I am significantly further back than I have ever been with my guitar - I *would* have considered myself an intermidiate player around 10-15 years ago. Based on the criteria/core abilities found [here](https://www.youtube.com/watch?v=wAlB-71Jq4A)
 
@@ -28,7 +28,7 @@ That gives me a target of:
 
 Some of these will be easily achievable, some not so much.
 
-## H2 Goals
+## Goals
 
 My goal is to take a month or so (May) to self assess and revisit this list, build some good exercises and resources to make practice flow better and eventually replace YouTube videos with self recordings of exercises.
 
