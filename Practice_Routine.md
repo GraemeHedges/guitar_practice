@@ -12,9 +12,9 @@ For now, I am working on shorter, 30 minute sessions. The aim is to rebuild stre
 
 ### Technique
 
-Spider with economy of movement and simple picking - see [here](https://youtu.be/b2XXzcQhPvc?t=28)
-Leggato finger strengthing exercises - see [here](https://www.youtube.com/watch?v=3TGDIOT6c0A&t=506s)
-Simple walking spider along string (good for a short warm up)
+- Spider with economy of movement and simple picking - see [here](https://youtu.be/b2XXzcQhPvc?t=28)
+- Leggato finger strengthing exercises - see [here](https://www.youtube.com/watch?v=3TGDIOT6c0A&t=506s)
+- Simple walking spider along string (good for a short warm up)
 
 ### Picking
 
