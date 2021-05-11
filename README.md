@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This Repo is a place where I itend to record my guitar practice sessions, reflect on what went well and not so well and where I might need to improve. It's also a place where I will keep a record of useful lessons, exercises, songs, chords, scales and other practice resources. I want this to be a 'living' document so I will be evolving it over time.
+This Repo is a place where I intend to record my guitar practice sessions, reflect on what went well and not so well and where I might need to improve. It's also a place where I will keep a record of useful lessons, exercises, songs, chords, scales and other practice resources. I want this to be a 'living' document so I will be evolving it over time.
 
 It's very unlikely that this will ever be of any use to anyone other than myself, and other than giving me a place to play with markdown and git, it has basically nothing to do with code whatsoever.
 
