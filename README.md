@@ -8,7 +8,7 @@ It's very unlikely that this will ever be of any use to anyone other than myself
 
 ## H2 Self Assessment
 
-Currently (As of 11/05/2021) I am significantly further back than I have ever been with my guitar - I *would* have considered myself an intermidiate player around 10-15 years ago. Based on the criteria/core abilities found [here](https://www.youtube.com/watch?v=wAlB-71Jq4A&t=449s)
+Currently (As of 11/05/2021) I am significantly further back than I have ever been with my guitar - I *would* have considered myself an intermidiate player around 10-15 years ago. Based on the criteria/core abilities found [here](https://www.youtube.com/watch?v=wAlB-71Jq4A)
 
 That gives me a target of:
 
