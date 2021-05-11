@@ -32,11 +32,9 @@ This section can be updated as and when but MUST be updated at the end of the pr
 
 ### Links Resources
 
-[5 Great Exercises for your practice routine! by Paul Davids](https://www.youtube.com/watch?v=b2XXzcQhPvc)
-
-[Everyday Practice Techniques for the Intermediate Player by Lessonface, featuring Steve Stine](https://www.youtube.com/watch?v=3TGDIOT6c0A)
-
-[How to Plan a Guitar Practice Routine by Music is Win ](https://www.youtube.com/watch?v=S2-0oFcpeFs)
-[The best FINGER EXERCISE ever. (Try at own risk...) by Paul Davids](https://www.youtube.com/watch?v=elfgRX0DrYM)
-[I Did the "Spider Walk" for 30 Days (THIS IS WHAT HAPPENED!) by creativeguitarstudio, featuring Andrew Wasson](https://www.youtube.com/watch?v=B0vE6WJQzDQ)
-[Do This Every Day (TOTAL CHORD WORKOUT) by creativeguitarstudio, featuring Andrew Wasson](https://www.youtube.com/watch?v=qoeCozEw3OE)
+[5 Great Exercises for your practice routine! by Paul Davids](https://www.youtube.com/watch?v=b2XXzcQhPvc)  
+[Everyday Practice Techniques for the Intermediate Player by Lessonface, featuring Steve Stine](https://www.youtube.com/watch?v=3TGDIOT6c0A)  
+[How to Plan a Guitar Practice Routine by Music is Win ](https://www.youtube.com/watch?v=S2-0oFcpeFs)  
+[The best FINGER EXERCISE ever. (Try at own risk...) by Paul Davids](https://www.youtube.com/watch?v=elfgRX0DrYM)  
+[I Did the "Spider Walk" for 30 Days (THIS IS WHAT HAPPENED!) by creativeguitarstudio, featuring Andrew Wasson](https://www.youtube.com/watch?v=B0vE6WJQzDQ)  
+[Do This Every Day (TOTAL CHORD WORKOUT) by creativeguitarstudio, featuring Andrew Wasson](https://www.youtube.com/watch?v=qoeCozEw3OE)  
