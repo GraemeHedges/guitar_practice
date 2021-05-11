@@ -32,4 +32,4 @@ Some of these will be easily achievable, some not so much.
 
 My goal is to take a month or so (May) to self assess and revisit this list, build some good exercises and resources to make practice flow better and eventually replace YouTube videos with self recordings of exercises.
 
-![Illidan Rocking out](resources\images\illidanguitar.jpg)
+![Illidan Rocking out](./resources/images/illidanguitar.jpg)
